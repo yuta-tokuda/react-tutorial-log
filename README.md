@@ -15,3 +15,9 @@ https://qiita.com/yuta_t/private/546e3691eded2ef11c41
 #3_data_and_if_and_map
 - Qiita
 https://qiita.com/yuta_t/items/ebca7c843580e7591ff6
+
+# #4 イベントハンドラ
+- ブランチ
+#4_event
+- Qiita
+https://qiita.com/yuta_t/items/609cfede17ebb4326292
