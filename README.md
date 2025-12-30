@@ -9,3 +9,9 @@ https://qiita.com/yuta_t/private/16ff35d4ed5963741692
 #2_component_and_nest
 - Qiita
 https://qiita.com/yuta_t/private/546e3691eded2ef11c41
+
+# #2 データの表示・条件判定・リストのレンダー
+- ブランチ
+#3_data_and_if_and_map
+- Qiita
+https://qiita.com/yuta_t/items/ebca7c843580e7591ff6
