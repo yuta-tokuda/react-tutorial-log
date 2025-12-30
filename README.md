@@ -10,7 +10,7 @@ https://qiita.com/yuta_t/private/16ff35d4ed5963741692
 - Qiita
 https://qiita.com/yuta_t/private/546e3691eded2ef11c41
 
-# #2 データの表示・条件判定・リストのレンダー
+# #3 データの表示・条件判定・リストのレンダー
 - ブランチ
 #3_data_and_if_and_map
 - Qiita
