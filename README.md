@@ -1,29 +1,7 @@
-# #1 開発環境構築編
-- ブランチ
-main
-- Qiita
-https://qiita.com/yuta_t/private/16ff35d4ed5963741692
-
-# #2 コンポーネントの作成とネスト
-- ブランチ
-#2_component_and_nest
-- Qiita
-https://qiita.com/yuta_t/private/546e3691eded2ef11c41
-
-# #3 データの表示・条件判定・リストのレンダー
-- ブランチ
-#3_data_and_if_and_map
-- Qiita
-https://qiita.com/yuta_t/items/ebca7c843580e7591ff6
-
-# #4 イベントハンドラ
-- ブランチ
-#4_event
-- Qiita
-https://qiita.com/yuta_t/items/609cfede17ebb4326292
-
-# #5 画面の更新
-- ブランチ
-#5_state
-- Qiita
-https://qiita.com/yuta_t/items/47df183255a9590bded3
+| No | テーマ                  | GitHub ブランチ                                                                                                 | Qiita                                                          |
+| -- | -------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| #1 | 開発環境構築編              | `main`                                                                                                      | [記事を見る](https://qiita.com/yuta_t/private/16ff35d4ed5963741692) |
+| #2 | コンポーネントの作成とネスト       | [`#2_component_and_nest`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%232_component_and_nest)   | [記事を見る](https://qiita.com/yuta_t/private/546e3691eded2ef11c41) |
+| #3 | データの表示・条件判定・リストのレンダー | [`#3_data_and_if_and_map`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%233_data_and_if_and_map) | [記事を見る](https://qiita.com/yuta_t/items/ebca7c843580e7590ff6)   |
+| #4 | イベントハンドラ             | [`#4_event`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%234_event)                             | [記事を見る](https://qiita.com/yuta_t/items/609cfede17ebb4326292)   |
+| #5 | 画面の更新（useState）      | [`#5_state`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%235_state)                             | [記事を見る](https://qiita.com/yuta_t/items/47df183255a9590bded3)   |
