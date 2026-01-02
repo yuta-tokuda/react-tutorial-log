@@ -5,3 +5,4 @@
 | #3 | データの表示・条件判定・リストのレンダー | [`#3_data_and_if_and_map`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%233_data_and_if_and_map) | [記事を見る](https://qiita.com/yuta_t/items/ebca7c843580e7590ff6)   |
 | #4 | イベントハンドラ             | [`#4_event`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%234_event)                             | [記事を見る](https://qiita.com/yuta_t/items/609cfede17ebb4326292)   |
 | #5 | 画面の更新（useState）      | [`#5_state`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%235_state)                             | [記事を見る](https://qiita.com/yuta_t/items/47df183255a9590bded3)   |
+| #6 | フック（hook）      | [`#6_hook`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%236_hook)   | [記事を見る](https://qiita.com/yuta_t/items/3b4bb5f8e9878314028d)   |
