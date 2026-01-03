@@ -6,3 +6,4 @@
 | #4 | イベントハンドラ             | [`#4_event`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%234_event)                             | [記事を見る](https://qiita.com/yuta_t/items/609cfede17ebb4326292)   |
 | #5 | 画面の更新（useState）      | [`#5_state`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%235_state)                             | [記事を見る](https://qiita.com/yuta_t/items/47df183255a9590bded3)   |
 | #6 | フック（hook）      | [`#6_hook`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%236_hook)   | [記事を見る](https://qiita.com/yuta_t/items/3b4bb5f8e9878314028d)   |
+| #7 | イベントハンドラとprops      | [`#7_event_props`](https://github.com/yuta-tokuda/react-tutorial-log/tree/%237_evet_props)   | [記事を見る](https://qiita.com/yuta_t/items/0cc05c962be1ce9031a4)   |
